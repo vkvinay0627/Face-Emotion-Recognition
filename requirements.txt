@@ -1,6 +1,6 @@
 streamlit
 numpy
-opencv_python
+opencv-python-headless
 av
 tensorflow
 aiortc
