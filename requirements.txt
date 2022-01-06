@@ -1,4 +1,4 @@
-streamlit==0.89.0
+streamlit
 numpy==1.19.5
 opencv_python==4.5.3.56
 av==8.0.3
