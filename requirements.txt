@@ -5,4 +5,4 @@ av
 tensorflow
 aiortc
 Pillow
-streamlit_webrtc
+streamlit_webrtc==0.6.3
