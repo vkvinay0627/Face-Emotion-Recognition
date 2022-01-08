@@ -125,7 +125,7 @@ def main():
     elif choice == "Webcam Face Detection":
         st.header("Webcam Live Feed")
         st.write("Click on start to use webcam and detect your face emotion")
-        webrtc_streamer(key="example", video_processor_factory=VideoTransformer)
+        webrtc_streamer(key="example", video_transformer_factory=VideoTransformer)
 
 
 
