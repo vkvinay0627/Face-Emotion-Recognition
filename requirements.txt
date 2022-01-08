@@ -6,3 +6,4 @@ tensorflow
 aiortc
 Pillow
 streamlit_webrtc==0.6.3
+pillow
